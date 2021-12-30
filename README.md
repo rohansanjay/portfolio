@@ -1,5 +1,3 @@
 # portfolio
 
-Text
-
-[here](www.rohansanjay.com)
+[here](https://www.linkedin.com/in/rohansanjay/)
