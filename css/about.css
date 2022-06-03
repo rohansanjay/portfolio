@@ -4,16 +4,22 @@ title,
   margin-bottom: 0.2em;
 }
 
-footer,
-.footer {
+intro,
+.intro {
   text-align: center;
 }
 
+subtitle,
 .subtitle {
   text-align: center;
   font-size: medium;
   font-weight: bold;
   margin-top: 0;
+}
+
+footer,
+.footer {
+  text-align: center;
 }
 
 body {
